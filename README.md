@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+Hola Dani!!!
 yarn install
 ```
 
